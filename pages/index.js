@@ -8,7 +8,7 @@ export default function Home() {
 					"linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%)",
 			}}>
 			<div className="flex h-screen items-center justify-center flex-col">
-				<div className="text-8xl text-lime-600">CriciFy</div>.
+				<div className="text-8xl text-orange-600">CriPoint</div>.
 				<div className="mt-6 text-lg text-black typewriter">
 					One stop for all cricket fans.
 				</div>
